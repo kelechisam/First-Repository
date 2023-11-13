@@ -1,2 +1,2 @@
-lionness
+lion
 cat
